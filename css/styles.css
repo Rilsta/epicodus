@@ -1,0 +1,38 @@
+
+h1 {
+	color:#7e9c6f;
+	text-align:center;
+	font-family:sans-serif;
+	font-weight:900;
+}
+
+h2 {
+	color:#778371;
+	text-align:center;
+	font-family:sans-serif;
+}
+
+p {
+	color:#55813f;
+	text-align:center;
+	font-family:sans-serif;
+	font-style:italic;
+	font-weight:700;
+	line-height:100px;
+
+}
+
+ul {
+	color:#55813f;
+	text-align:center;
+	list-style-position:inside;
+	padding-left:0;
+
+}
+
+li {
+	text-align:center;
+}
+a {
+	color:#72df3b;
+}

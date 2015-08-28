@@ -1,0 +1,16 @@
+html{
+	text-align:center;
+	font-family:sans-serif;
+	font-style:italic;
+	line-height:25px;
+}
+h1 {
+	color:#6033a7;
+}
+body{
+	list-style-position:inside;
+}
+
+p {
+	color:blue;
+}
