@@ -36,3 +36,8 @@ li {
 a {
 	color:#72df3b;
 }
+
+.flashy{
+    color:red;
+    font-style: italic;
+}

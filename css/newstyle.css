@@ -7,3 +7,17 @@ p.end{
 	font-style:italic;
 	font-weight:bold;
 }
+
+.potato{
+	color:blue;
+}
+
+.here{
+	font-size:30px;
+}
+
+.about{
+	float:right;
+	color:yellow;
+	background-color: green;
+}
